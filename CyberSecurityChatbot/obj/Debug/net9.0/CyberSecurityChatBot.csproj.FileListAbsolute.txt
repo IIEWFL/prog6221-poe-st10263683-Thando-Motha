@@ -1,0 +1,14 @@
+C:\Users\27684\Desktop\CyberSecurityChatBot\bin\Debug\net9.0\CyberSecurityChatBot.exe
+C:\Users\27684\Desktop\CyberSecurityChatBot\bin\Debug\net9.0\CyberSecurityChatBot.deps.json
+C:\Users\27684\Desktop\CyberSecurityChatBot\bin\Debug\net9.0\CyberSecurityChatBot.runtimeconfig.json
+C:\Users\27684\Desktop\CyberSecurityChatBot\bin\Debug\net9.0\CyberSecurityChatBot.dll
+C:\Users\27684\Desktop\CyberSecurityChatBot\bin\Debug\net9.0\CyberSecurityChatBot.pdb
+C:\Users\27684\Desktop\CyberSecurityChatBot\obj\Debug\net9.0\CyberSecurityChatBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\27684\Desktop\CyberSecurityChatBot\obj\Debug\net9.0\CyberSecurityChatBot.AssemblyInfoInputs.cache
+C:\Users\27684\Desktop\CyberSecurityChatBot\obj\Debug\net9.0\CyberSecurityChatBot.AssemblyInfo.cs
+C:\Users\27684\Desktop\CyberSecurityChatBot\obj\Debug\net9.0\CyberSecurityChatBot.csproj.CoreCompileInputs.cache
+C:\Users\27684\Desktop\CyberSecurityChatBot\obj\Debug\net9.0\CyberSecurityChatBot.dll
+C:\Users\27684\Desktop\CyberSecurityChatBot\obj\Debug\net9.0\refint\CyberSecurityChatBot.dll
+C:\Users\27684\Desktop\CyberSecurityChatBot\obj\Debug\net9.0\CyberSecurityChatBot.pdb
+C:\Users\27684\Desktop\CyberSecurityChatBot\obj\Debug\net9.0\CyberSecurityChatBot.genruntimeconfig.cache
+C:\Users\27684\Desktop\CyberSecurityChatBot\obj\Debug\net9.0\ref\CyberSecurityChatBot.dll
